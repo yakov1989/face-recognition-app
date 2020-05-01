@@ -1,0 +1,7 @@
+.Tilt {
+  background: linear-gradient(
+    90deg,
+    rgba(20, 9, 121, 1) 35%,
+    rgba(0, 255, 102, 1) 80%
+  );
+}
