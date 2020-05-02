@@ -66,3 +66,20 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+## Used Frameworks & Libaries for Front-End
+* create-react-app
+  * For REACT skeleton
+* react-particles-js
+  * For impressive background animation
+* react-tilt
+  * For nice hover behavier of the Logo after login
+* tachyons
+  * For ready to use CSS styled components 
+
+ For further information about the API look at face-recognition-api.
+
+Look at Working demo deployed at Heroku.
+
+This project was bootstrapped with Create React App.
